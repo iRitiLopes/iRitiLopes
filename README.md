@@ -37,7 +37,7 @@ In progress...
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRitiLopes&hide=java,html,css&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRitiLopes&hide=html,css&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Riti's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRitiLopes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
