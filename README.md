@@ -2,7 +2,7 @@
 **iRitiLopes/iRitiLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Richard!
+### Hi there, I am Richard!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ritizera?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/iRitiLopes?style=social)
