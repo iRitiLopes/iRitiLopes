@@ -5,8 +5,8 @@ description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 
-baseurl: /mediumish-theme-jekyll
-email: your-email@example.com
+baseurl: ""
+email: richardcruzlopes@gmail.com
 url: "https://blog.riti.dev.br" # the base hostname & protocol for your site, e.g. http://example.com
 domain: riti.dev.br
 twitter_username: ritizera
