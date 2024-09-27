@@ -71,25 +71,26 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
 
+                {% if page.url == "/featured" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/featured">Recentes</a>
+                </li>
+
+                {% if page.url == "/recents" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/recents">Todos</a>
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about">Sobre</a>
                 </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
-                </li>
+                
 
                 {% include search-lunr.html %}
 
@@ -120,6 +121,11 @@ ga('send', 'pageview');
 <!-- Content
 ================================================== -->
 <div class="main-content">
+    {% if page.url == '/' %}
+    {% include featured.html %}
+    {% include recents.html %}
+
+    {% endif %}
     {{ content }}
 </div>
 
@@ -143,7 +149,7 @@ ga('send', 'pageview');
 
 <!-- Categories Jumbotron
 ================================================== -->
-<div class="jumbotron fortags">
+<!-- <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
             <div class="d-md-flex align-items-center justify-content-center h-100">
@@ -164,7 +170,7 @@ ga('send', 'pageview');
             {% assign categories_list = nil %}
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- Begin Footer
 ================================================== -->

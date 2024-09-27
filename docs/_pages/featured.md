@@ -1,0 +1,5 @@
+---
+layout: featured
+title: Featured Posts
+permalink: /featured
+---
