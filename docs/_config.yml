@@ -19,13 +19,13 @@ github_username:  iRitiLopes
 # Authors
 authors:
   richard:
-    name: Richard
+    name: Richard Lopes
     display_name: Richard
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: breadmysteriously44041b57ea
     email: richardcruzlopes@gmail.com
     web: links.riti.dev.br
     bluesky: https://bsky.app/profile/riti.dev.br
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Engenheiro de Software Backend"
 # Plugins
 plugins:
   - jekyll-paginate
