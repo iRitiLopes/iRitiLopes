@@ -65,5 +65,6 @@
 .highlight .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
 
 pre.highlight {
-    padding: 5px
+    padding: 5px;
+    color: #f8f8f2 !important;
 }
