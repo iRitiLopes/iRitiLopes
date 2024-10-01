@@ -28,4 +28,19 @@ image: assets/images/11.jpg
 description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
 ---
+
+<html>
+    <body>
+    </body>
+</html>
+```
+
+
+```python
+def main():
+    print("teste")
+```
+
+```ruby
+puts "Hello World"
 ```

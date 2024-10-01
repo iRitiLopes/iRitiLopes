@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Richard Lopes"
+title: "Richard Lopes"
+description: "Blog técnico, algumas coisas aleatórias e um pouco de mim"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -20,8 +20,8 @@ github_username:  iRitiLopes
 authors:
   richard:
     name: Richard Lopes
-    display_name: Richard
-    gravatar: breadmysteriously44041b57ea
+    display_name: Richard Lopes
+    gravatar: 9a5c4a5c67d5488cdc5fa03d7b0ad415
     email: richardcruzlopes@gmail.com
     web: links.riti.dev.br
     bluesky: https://bsky.app/profile/riti.dev.br
@@ -54,7 +54,10 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
-      line_numbers: true
+      line_numbers: false
+      bold_every: 5
+      start_line: 1
+      start_col: 2
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"

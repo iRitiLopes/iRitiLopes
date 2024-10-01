@@ -92,7 +92,7 @@ body {
 }
 
 .card {
-	border: var(--card-bg);
+	border: 1px solid var(--primary-200);
 }
 .card-body {
 	background-color: var(--card-bg);
@@ -119,7 +119,7 @@ body {
 }
 
 .listfeaturedtag {
-	border: 0px solid var(--primary-300);
+	border: 1px solid var(--primary-200);
 }
 
 .footer {
@@ -142,6 +142,20 @@ body {
 ul.tags li a {
 	color: var(--primary-500);
 }
+
+.share, .share a {
+	color: var(--primary-500);
+}
+
+.author-description {
+	color: var(--primary-300) !important;
+}
+
+.link-dark {
+	color: var(--primary-400) !important;
+}
+
+
 
 .navbar-toggler {
   @extend .navbar-toggler;
