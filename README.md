@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actually, working at @iFood as Software Engineer.<br>Already worked as Data Engineer and know some tech stacks
+Actually, working at @MercadoLivre as Software Engineer.<br>Already worked as Data Engineer and know some tech stacks
 
 
 ## 🌐 Socials:
