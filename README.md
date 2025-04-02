@@ -1,5 +1,19 @@
-# 💫 About Me:
-Actually, working at @MercadoLivre as Software Engineer.<br>Already worked as Data Engineer and know some tech stacks
+### Sobre Mim
+Atualmente no @MercadoLivre como Software Engineer.<br>Também ja trabalhei como engenheiro de dados e algum momento da carreira.
+
+Sou um engenheiro de software com mais de 7 anos de experiência, atualmente trabalhando no [Mercado Livre](https://www.mercadolivre.com.br/) como Software Engineer. Minha trajetória profissional inclui atuação como engenheiro de dados e, nos últimos anos, tenho me dedicado ao desenvolvimento backend, com ênfase em sistemas distribuídos e microsserviços. Tenho experiência significativa com Java e Apache Kafka. Além disso, sou entusiasta de computação gráfica e tecnologias retrô.
+
+### Tecnologias e Ferramentas
+
+- **Linguagens:** Java, Kotlin, C#, Rust, Python
+- **Plataformas de Nuvem:** AWS, Google Cloud
+- **Outras Tecnologias:** Apache Kafka, Microsserviços, Sistemas Distribuídos
+
+### Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritizera-blue)](https://www.linkedin.com/in/ritizera/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ritizera-blue)](https://twitter.com/ritizera)
+[![Instagram](https://img.shields.io/badge/Instagram-ritizera-purple)](https://www.instagram.com/ritizera/)
 
 
 ## 🌐 Socials:
